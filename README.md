@@ -1,6 +1,6 @@
 <h1>WeatherChecker Website</h1>
 
-<p>Simple Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.</p>
+<p>Simple Weather app written in HTML, CSS, and JavaScript using the Open Weather API for fetching weather and geolocation information.</p>
 
 <h3>Used Technologies</h3>
 <ul>
