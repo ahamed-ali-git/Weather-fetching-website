@@ -1,6 +1,6 @@
 <h1>WeatherForecasting WebApp</h1>
 
-<p>Simple Weather app written in HTML, CSS, and JavaScript using the Open Weather API for fetching weather and geolocation information.</p>
+<p>Simple Weather app built with HTML, CSS, and JavaScript using the Open Weather API & Unsplash API for fetching weather and geolocation information.</p>
 
 <h3>Used Technologies</h3>
 <ul>
